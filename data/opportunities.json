@@ -1,51 +1,5 @@
 [
   {
-    "id": "feed::nvidia events::hpe ai factory with nvidia expands for the era of agents",
-    "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
-    "description": "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, June 18, NVIDIA and HPE are expanding the HPE AI Factory with NVIDIA, including NVIDIA Vera CPU and NVIDIA Agent Toolkit […]",
-    "company": "NVIDIA",
-    "type": "Conference",
-    "category": "Conference",
-    "location": "Global",
-    "mode": "Online",
-    "startDate": "2026-06-16T16:30:27Z",
-    "deadline": "2026-06-16T16:30:27Z",
-    "skills": [],
-    "tags": [
-      "NVIDIA",
-      "AI",
-      "Event"
-    ],
-    "image": "",
-    "source": "https://blogs.nvidia.com/feed/",
-    "sourceName": "NVIDIA Events",
-    "applyUrl": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/",
-    "scrapedAt": "2026-06-29T11:03:03Z"
-  },
-  {
-    "id": "feed::nvidia events::coherent breaks ground on expanded texas facility, scaling ai’s optical backbone",
-    "title": "Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone",
-    "description": "AI runs at the speed of light. More and more, that light is made in Texas. Coherent broke ground today on an expanded manufacturing building in Sherman, Texas. The company makes the lasers, optical components and compound semiconductors that wire AI systems together — and runs what it calls the world’s first 6-inch indium phosphide […]",
-    "company": "NVIDIA",
-    "type": "Conference",
-    "category": "Conference",
-    "location": "Global",
-    "mode": "Online",
-    "startDate": "2026-06-16T22:10:56Z",
-    "deadline": "2026-06-16T22:10:56Z",
-    "skills": [],
-    "tags": [
-      "NVIDIA",
-      "AI",
-      "Event"
-    ],
-    "image": "",
-    "source": "https://blogs.nvidia.com/feed/",
-    "sourceName": "NVIDIA Events",
-    "applyUrl": "https://blogs.nvidia.com/blog/coherent-texas-ai-optical/",
-    "scrapedAt": "2026-06-29T11:03:03Z"
-  },
-  {
     "id": "feed::nvidia events::hands free, ais forward: nvidia xr ai brings agents to ar glasses",
     "title": "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
     "description": "NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices.",
@@ -66,7 +20,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/nvidia-xr-ai/",
-    "scrapedAt": "2026-06-29T11:03:03Z"
+    "scrapedAt": "2026-06-29T15:50:20Z"
   },
   {
     "id": "feed::nvidia events::france advances europe’s ai future with nvidia technologies",
@@ -89,7 +43,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/france-advances-europes-ai-future/",
-    "scrapedAt": "2026-06-29T11:03:03Z"
+    "scrapedAt": "2026-06-29T15:50:20Z"
   },
   {
     "id": "feed::nvidia events::sync and stream: geforce now connects to members’ game libraries across devices",
@@ -112,7 +66,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/",
-    "scrapedAt": "2026-06-29T11:03:03Z"
+    "scrapedAt": "2026-06-29T15:50:20Z"
   },
   {
     "id": "feed::nvidia events::at cannes lions, nvidia partners reshape advertising and marketing with ai",
@@ -135,7 +89,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/",
-    "scrapedAt": "2026-06-29T11:03:03Z"
+    "scrapedAt": "2026-06-29T15:50:20Z"
   },
   {
     "id": "feed::nvidia events::how ferc’s large-load interconnection actions help address grid stress, improve affordability",
@@ -158,7 +112,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/ferc-large-load-interconnection/",
-    "scrapedAt": "2026-06-29T11:03:03Z"
+    "scrapedAt": "2026-06-29T15:50:20Z"
   },
   {
     "id": "feed::nvidia events::hotter than a hot tub: the 45°c breakthrough to cool ai’s biggest machines",
@@ -181,7 +135,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-    "scrapedAt": "2026-06-29T11:03:03Z"
+    "scrapedAt": "2026-06-29T15:50:20Z"
   },
   {
     "id": "feed::nvidia events::eco wave power turns waves into watts with nvidia ai infrastructure and digital twins",
@@ -204,7 +158,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/",
-    "scrapedAt": "2026-06-29T11:03:03Z"
+    "scrapedAt": "2026-06-29T15:50:20Z"
   },
   {
     "id": "feed::nvidia events::from materials simulation to experimental astronomy, new nvidia ai software unlocks scientific discoveries",
@@ -227,7 +181,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
-    "scrapedAt": "2026-06-29T11:03:03Z"
+    "scrapedAt": "2026-06-29T15:50:20Z"
   },
   {
     "id": "feed::nvidia events::nvidia vera cpu opens the way for agentic scientific ai at los alamos national laboratory",
@@ -250,7 +204,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
-    "scrapedAt": "2026-06-29T11:03:03Z"
+    "scrapedAt": "2026-06-29T15:50:20Z"
   },
   {
     "id": "feed::nvidia events::nairr science program reshapes scientific research, powered by nvidia ai infrastructure",
@@ -273,7 +227,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/",
-    "scrapedAt": "2026-06-29T11:03:03Z"
+    "scrapedAt": "2026-06-29T15:50:20Z"
   },
   {
     "id": "feed::nvidia events::at isc, jupiter shows what exascale science looks like",
@@ -296,7 +250,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/",
-    "scrapedAt": "2026-06-29T11:03:03Z"
+    "scrapedAt": "2026-06-29T15:50:20Z"
   },
   {
     "id": "feed::nvidia events::nvidia brings trusted, 24/7 ai agents to telecom operations",
@@ -319,7 +273,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/",
-    "scrapedAt": "2026-06-29T11:03:03Z"
+    "scrapedAt": "2026-06-29T15:50:20Z"
   },
   {
     "id": "feed::nvidia events::nvidia powers over 400 of the world’s 500 fastest supercomputers",
@@ -342,7 +296,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/",
-    "scrapedAt": "2026-06-29T11:03:03Z"
+    "scrapedAt": "2026-06-29T15:50:20Z"
   },
   {
     "id": "feed::nvidia events::how businesses are building specialized ai they can trust",
@@ -365,7 +319,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
-    "scrapedAt": "2026-06-29T11:03:03Z"
+    "scrapedAt": "2026-06-29T15:50:20Z"
   },
   {
     "id": "feed::nvidia events::nvidia and aws collaborate to bring ai to production at scale",
@@ -388,7 +342,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/",
-    "scrapedAt": "2026-06-29T11:03:03Z"
+    "scrapedAt": "2026-06-29T15:50:20Z"
   },
   {
     "id": "feed::nvidia events::the ultimate summer sale pairing: steam sale meets geforce now discounts",
@@ -411,80 +365,57 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/",
-    "scrapedAt": "2026-06-29T11:03:03Z"
+    "scrapedAt": "2026-06-29T15:50:20Z"
   },
   {
-    "id": "wellfound::digital-marketing-manager",
-    "title": "Digital Marketing Manager",
-    "description": "",
-    "company": "Wellfound",
-    "type": "Internship",
-    "category": "Internship",
-    "location": "",
-    "mode": "True",
-    "startDate": "",
-    "deadline": "",
+    "id": "feed::nvidia events::open models, closed environments: palantir brings secure ai to us agencies with nvidia nemotron",
+    "title": "Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron",
+    "description": "Showcasing the importance of open source innovation in American AI, Palantir’s new intelligent engine — introduced today — uses NVIDIA Nemotron open models to serve the needs of U.S. government agencies. Open source software has long been a pillar of U.S. technology leadership. In 1969, DARPA connected four university computers — from UCLA, Stanford, UCSB […]",
+    "company": "NVIDIA",
+    "type": "Conference",
+    "category": "Conference",
+    "location": "Global",
+    "mode": "Online",
+    "startDate": "2026-06-29T10:59:38Z",
+    "deadline": "2026-06-29T10:59:38Z",
     "skills": [],
     "tags": [
-      "Wellfound",
-      "Startup",
-      "Internship"
+      "NVIDIA",
+      "AI",
+      "Event"
     ],
     "image": "",
-    "source": "https://wellfound.com/jobs",
-    "sourceName": "Wellfound",
-    "applyUrl": "https://wellfound.com/jobs/digital-marketing-manager",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "source": "https://blogs.nvidia.com/feed/",
+    "sourceName": "NVIDIA Events",
+    "applyUrl": "https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/",
+    "scrapedAt": "2026-06-29T15:50:20Z"
   },
   {
-    "id": "wellfound::founding-coo-digital-healthcare-ai",
-    "title": "Founding COO / Digital Healthcare AI",
+    "id": "feed::nvidia events::firefly aerospace operates nvidia jetson in lunar orbit for the first time",
+    "title": "Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time",
     "description": "",
-    "company": "Wellfound",
-    "type": "Internship",
-    "category": "Internship",
-    "location": "",
-    "mode": "True",
-    "startDate": "",
-    "deadline": "",
+    "company": "NVIDIA",
+    "type": "Conference",
+    "category": "Conference",
+    "location": "Global",
+    "mode": "Online",
+    "startDate": "2026-06-29T15:00:04Z",
+    "deadline": "2026-06-29T15:00:04Z",
     "skills": [],
     "tags": [
-      "Wellfound",
-      "Startup",
-      "Internship"
+      "NVIDIA",
+      "AI",
+      "Event"
     ],
     "image": "",
-    "source": "https://wellfound.com/jobs",
-    "sourceName": "Wellfound",
-    "applyUrl": "https://wellfound.com/jobs/founding-coo-digital-healthcare-ai",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "source": "https://blogs.nvidia.com/feed/",
+    "sourceName": "NVIDIA Events",
+    "applyUrl": "https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/",
+    "scrapedAt": "2026-06-29T15:50:20Z"
   },
   {
-    "id": "wellfound::territory-partner-closer",
-    "title": "Territory Partner (Closer)",
-    "description": "",
-    "company": "Wellfound",
-    "type": "Internship",
-    "category": "Internship",
-    "location": "",
-    "mode": "True",
-    "startDate": "",
-    "deadline": "",
-    "skills": [],
-    "tags": [
-      "Wellfound",
-      "Startup",
-      "Internship"
-    ],
-    "image": "",
-    "source": "https://wellfound.com/jobs",
-    "sourceName": "Wellfound",
-    "applyUrl": "https://wellfound.com/jobs/territory-partner-closer",
-    "scrapedAt": "2026-06-29T11:02:57Z"
-  },
-  {
-    "id": "wellfound::founding-recruiter",
-    "title": "Founding Recruiter",
+    "id": "wellfound::storefront-direct-sales-representative-clone",
+    "title": "Sales Representative",
     "description": "",
     "company": "Wellfound",
     "type": "Internship",
@@ -502,12 +433,12 @@
     "image": "",
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
-    "applyUrl": "https://wellfound.com/jobs/founding-recruiter",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "applyUrl": "https://wellfound.com/jobs/storefront-direct-sales-representative-clone",
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
-    "id": "wellfound::market-intelligence-lead",
-    "title": "Market Intelligence Lead",
+    "id": "wellfound::founding-ai-software-engineer",
+    "title": "Founding AI Software Engineer",
     "description": "",
     "company": "Wellfound",
     "type": "Internship",
@@ -525,12 +456,12 @@
     "image": "",
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
-    "applyUrl": "https://wellfound.com/jobs/market-intelligence-lead",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "applyUrl": "https://wellfound.com/jobs/founding-ai-software-engineer",
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
-    "id": "wellfound::software-engineer",
-    "title": "Software Engineer",
+    "id": "wellfound::senior-infrastructure-engineer",
+    "title": "Senior Infrastructure Engineer",
     "description": "",
     "company": "Wellfound",
     "type": "Internship",
@@ -548,8 +479,100 @@
     "image": "",
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
-    "applyUrl": "https://wellfound.com/jobs/software-engineer",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "applyUrl": "https://wellfound.com/jobs/senior-infrastructure-engineer",
+    "scrapedAt": "2026-06-29T15:50:13Z"
+  },
+  {
+    "id": "wellfound::python-engineer",
+    "title": "Python Engineer",
+    "description": "",
+    "company": "Wellfound",
+    "type": "Internship",
+    "category": "Internship",
+    "location": "",
+    "mode": "True",
+    "startDate": "",
+    "deadline": "",
+    "skills": [],
+    "tags": [
+      "Wellfound",
+      "Startup",
+      "Internship"
+    ],
+    "image": "",
+    "source": "https://wellfound.com/jobs",
+    "sourceName": "Wellfound",
+    "applyUrl": "https://wellfound.com/jobs/python-engineer",
+    "scrapedAt": "2026-06-29T15:50:13Z"
+  },
+  {
+    "id": "wellfound::workday-integration-senior-developer",
+    "title": "Workday Integration Senior Developer",
+    "description": "",
+    "company": "Wellfound",
+    "type": "Internship",
+    "category": "Internship",
+    "location": "",
+    "mode": "",
+    "startDate": "",
+    "deadline": "",
+    "skills": [],
+    "tags": [
+      "Wellfound",
+      "Startup",
+      "Internship"
+    ],
+    "image": "",
+    "source": "https://wellfound.com/jobs",
+    "sourceName": "Wellfound",
+    "applyUrl": "https://wellfound.com/jobs/workday-integration-senior-developer",
+    "scrapedAt": "2026-06-29T15:50:13Z"
+  },
+  {
+    "id": "wellfound::entry-level-software-engineer",
+    "title": "Entry-Level Software Engineer",
+    "description": "",
+    "company": "Wellfound",
+    "type": "Internship",
+    "category": "Internship",
+    "location": "",
+    "mode": "",
+    "startDate": "",
+    "deadline": "",
+    "skills": [],
+    "tags": [
+      "Wellfound",
+      "Startup",
+      "Internship"
+    ],
+    "image": "",
+    "source": "https://wellfound.com/jobs",
+    "sourceName": "Wellfound",
+    "applyUrl": "https://wellfound.com/jobs/entry-level-software-engineer",
+    "scrapedAt": "2026-06-29T15:50:13Z"
+  },
+  {
+    "id": "wellfound::ai-systems-engineer",
+    "title": "AI Systems Engineer",
+    "description": "",
+    "company": "Wellfound",
+    "type": "Internship",
+    "category": "Internship",
+    "location": "",
+    "mode": "",
+    "startDate": "",
+    "deadline": "",
+    "skills": [],
+    "tags": [
+      "Wellfound",
+      "Startup",
+      "Internship"
+    ],
+    "image": "",
+    "source": "https://wellfound.com/jobs",
+    "sourceName": "Wellfound",
+    "applyUrl": "https://wellfound.com/jobs/ai-systems-engineer",
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::software-developer-apprentice",
@@ -572,7 +595,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/software-developer-apprentice",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::senior-or-staff-back-end-engineer-ai-features",
@@ -595,30 +618,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/senior-or-staff-back-end-engineer-ai-features",
-    "scrapedAt": "2026-06-29T11:02:57Z"
-  },
-  {
-    "id": "wellfound::founding-forward-deployed-engineer",
-    "title": "Founding Forward Deployed Engineer",
-    "description": "",
-    "company": "Wellfound",
-    "type": "Internship",
-    "category": "Internship",
-    "location": "",
-    "mode": "",
-    "startDate": "",
-    "deadline": "",
-    "skills": [],
-    "tags": [
-      "Wellfound",
-      "Startup",
-      "Internship"
-    ],
-    "image": "",
-    "source": "https://wellfound.com/jobs",
-    "sourceName": "Wellfound",
-    "applyUrl": "https://wellfound.com/jobs/founding-forward-deployed-engineer",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::product-manager-growth",
@@ -641,7 +641,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/product-manager-growth",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::product-manager-platform-experience",
@@ -664,7 +664,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/product-manager-platform-experience",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::product-lead-marketplace-pricing",
@@ -687,7 +687,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/product-lead-marketplace-pricing",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::product-manager-senior-product-manager",
@@ -710,7 +710,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/product-manager-senior-product-manager",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::protocol-product-manager",
@@ -733,7 +733,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/protocol-product-manager",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::senior-video-editor",
@@ -756,7 +756,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/senior-video-editor",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::senior-product-designer",
@@ -779,7 +779,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/senior-product-designer",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::senior-technical-level-artist",
@@ -802,7 +802,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/senior-technical-level-artist",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::senior-production-lead",
@@ -825,7 +825,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/senior-production-lead",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::junior-visual-designer",
@@ -848,7 +848,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/junior-visual-designer",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::principal-software-engineer-clone",
@@ -871,7 +871,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/principal-software-engineer-clone",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::data-analyst-data-engineer",
@@ -894,7 +894,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/data-analyst-data-engineer",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::senior-data-engineer",
@@ -917,7 +917,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/senior-data-engineer",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::lead-data-engineer",
@@ -940,7 +940,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/lead-data-engineer",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::enterprise-account-executive-life-sciences",
@@ -963,7 +963,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/enterprise-account-executive-life-sciences",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::senior-security-support-specialist",
@@ -986,7 +986,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/senior-security-support-specialist",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::financial-protection-specialist-remote-commission-based",
@@ -1009,7 +1009,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/financial-protection-specialist-remote-commission-based",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::sales-engineer",
@@ -1032,7 +1032,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/sales-engineer",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::solutions-engineer-public-sector",
@@ -1055,7 +1055,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/solutions-engineer-public-sector",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::digital-marketing-associate",
@@ -1078,7 +1078,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/digital-marketing-associate",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::head-of-marketing-clone",
@@ -1101,7 +1101,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/head-of-marketing-clone",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::growth-marketing-content-associate",
@@ -1124,7 +1124,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/growth-marketing-content-associate",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::director-of-growth",
@@ -1147,7 +1147,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/director-of-growth",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::founding-growth-product-marketing-manager",
@@ -1170,7 +1170,30 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/founding-growth-product-marketing-manager",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
+  },
+  {
+    "id": "wellfound::founding-coo-digital-healthcare-ai",
+    "title": "Founding COO / Digital Healthcare AI",
+    "description": "",
+    "company": "Wellfound",
+    "type": "Internship",
+    "category": "Internship",
+    "location": "",
+    "mode": "True",
+    "startDate": "",
+    "deadline": "",
+    "skills": [],
+    "tags": [
+      "Wellfound",
+      "Startup",
+      "Internship"
+    ],
+    "image": "",
+    "source": "https://wellfound.com/jobs",
+    "sourceName": "Wellfound",
+    "applyUrl": "https://wellfound.com/jobs/founding-coo-digital-healthcare-ai",
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::senior-manager-enterprise-data-migration",
@@ -1193,7 +1216,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/senior-manager-enterprise-data-migration",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::onboarding-manager-hybrid",
@@ -1216,7 +1239,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/onboarding-manager-hybrid",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::revenue-ops",
@@ -1239,7 +1262,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/revenue-ops",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::senior-business-operations-manager",
@@ -1262,11 +1285,11 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/senior-business-operations-manager",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
-    "id": "wellfound::senior-manager-hvac-geothermal-quality-programs",
-    "title": "Senior Manager, HVAC & Geothermal Quality Programs",
+    "id": "wellfound::founding-recruiter",
+    "title": "Founding Recruiter",
     "description": "",
     "company": "Wellfound",
     "type": "Internship",
@@ -1284,8 +1307,8 @@
     "image": "",
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
-    "applyUrl": "https://wellfound.com/jobs/senior-manager-hvac-geothermal-quality-programs",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "applyUrl": "https://wellfound.com/jobs/founding-recruiter",
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::technical-recruiter",
@@ -1308,30 +1331,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/technical-recruiter",
-    "scrapedAt": "2026-06-29T11:02:57Z"
-  },
-  {
-    "id": "wellfound::talent-engineer",
-    "title": "Talent Engineer",
-    "description": "",
-    "company": "Wellfound",
-    "type": "Internship",
-    "category": "Internship",
-    "location": "",
-    "mode": "",
-    "startDate": "",
-    "deadline": "",
-    "skills": [],
-    "tags": [
-      "Wellfound",
-      "Startup",
-      "Internship"
-    ],
-    "image": "",
-    "source": "https://wellfound.com/jobs",
-    "sourceName": "Wellfound",
-    "applyUrl": "https://wellfound.com/jobs/talent-engineer",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::senior-business-recruiter",
@@ -1354,7 +1354,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/senior-business-recruiter",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::jr-finance-strategy-analyst",
@@ -1377,7 +1377,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/jr-finance-strategy-analyst",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::staff-accountant",
@@ -1400,7 +1400,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/staff-accountant",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::controller",
@@ -1423,7 +1423,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/controller",
-    "scrapedAt": "2026-06-29T11:02:57Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "wellfound::senior-accountant",
@@ -1446,51 +1446,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/senior-accountant",
-    "scrapedAt": "2026-06-29T11:02:57Z"
-  },
-  {
-    "id": "devfolio::codestorm-week2-2026",
-    "title": "CodeStorm 2026 #2",
-    "description": "",
-    "company": "Devfolio",
-    "type": "Hackathon",
-    "category": "Hackathon",
-    "location": "",
-    "mode": "",
-    "startDate": "",
-    "deadline": "",
-    "skills": [],
-    "tags": [
-      "Devfolio",
-      "Hackathon"
-    ],
-    "image": "",
-    "source": "https://devfolio.co/hackathons",
-    "sourceName": "Devfolio",
-    "applyUrl": "https://devfolio.co/codestorm-week2-2026",
-    "scrapedAt": "2026-06-29T11:02:55Z"
-  },
-  {
-    "id": "devfolio::shebuilds-chennai-hack",
-    "title": "SheBuilds Chennai Hack",
-    "description": "",
-    "company": "Devfolio",
-    "type": "Hackathon",
-    "category": "Hackathon",
-    "location": "",
-    "mode": "",
-    "startDate": "",
-    "deadline": "",
-    "skills": [],
-    "tags": [
-      "Devfolio",
-      "Hackathon"
-    ],
-    "image": "",
-    "source": "https://devfolio.co/hackathons",
-    "sourceName": "Devfolio",
-    "applyUrl": "https://devfolio.co/shebuilds-chennai-hack",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:13Z"
   },
   {
     "id": "devfolio::girlathon26",
@@ -1512,7 +1468,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/girlathon26",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "devfolio::citadel-hackathon",
@@ -1534,7 +1490,29 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/citadel-hackathon",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
+  },
+  {
+    "id": "devfolio::shebuilds-chennai-hack",
+    "title": "SheBuilds Chennai Hack",
+    "description": "",
+    "company": "Devfolio",
+    "type": "Hackathon",
+    "category": "Hackathon",
+    "location": "",
+    "mode": "",
+    "startDate": "",
+    "deadline": "",
+    "skills": [],
+    "tags": [
+      "Devfolio",
+      "Hackathon"
+    ],
+    "image": "",
+    "source": "https://devfolio.co/hackathons",
+    "sourceName": "Devfolio",
+    "applyUrl": "https://devfolio.co/shebuilds-chennai-hack",
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "devfolio::flutterflow-champions-league-hackathon",
@@ -1556,7 +1534,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/flutterflow-champions-league-hackathon",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "devfolio::hexafalls2",
@@ -1578,7 +1556,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/hexafalls2",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "devfolio::futureforge-hackathon",
@@ -1600,7 +1578,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/futureforge-hackathon",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "devfolio::hyperfusion",
@@ -1622,7 +1600,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/hyperfusion",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "devfolio::ignisys-ignitia",
@@ -1644,7 +1622,51 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/ignisys-ignitia",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
+  },
+  {
+    "id": "devfolio::codestorm-week2-2026",
+    "title": "CodeStorm 2026 #2",
+    "description": "",
+    "company": "Devfolio",
+    "type": "Hackathon",
+    "category": "Hackathon",
+    "location": "",
+    "mode": "",
+    "startDate": "",
+    "deadline": "",
+    "skills": [],
+    "tags": [
+      "Devfolio",
+      "Hackathon"
+    ],
+    "image": "",
+    "source": "https://devfolio.co/hackathons",
+    "sourceName": "Devfolio",
+    "applyUrl": "https://devfolio.co/codestorm-week2-2026",
+    "scrapedAt": "2026-06-29T15:50:11Z"
+  },
+  {
+    "id": "devfolio::portmortem",
+    "title": "Port Mortem 2026 - Code Resurrection Hackathon",
+    "description": "",
+    "company": "Devfolio",
+    "type": "Hackathon",
+    "category": "Hackathon",
+    "location": "",
+    "mode": "",
+    "startDate": "",
+    "deadline": "",
+    "skills": [],
+    "tags": [
+      "Devfolio",
+      "Hackathon"
+    ],
+    "image": "",
+    "source": "https://devfolio.co/hackathons",
+    "sourceName": "Devfolio",
+    "applyUrl": "https://devfolio.co/portmortem",
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "devfolio::dsudevhack3",
@@ -1666,7 +1688,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/dsudevhack3",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "devfolio::hacknex-season-2",
@@ -1688,7 +1710,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/hacknex-season-2",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "devfolio::codestorm-futureforge",
@@ -1710,7 +1732,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/codestorm-futureforge",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "devfolio::hacker-house-goa-2026",
@@ -1732,7 +1754,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/hacker-house-goa-2026",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "devfolio::hackonhills8",
@@ -1754,7 +1776,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/hackonhills8",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "devfolio::tech-genesis",
@@ -1776,7 +1798,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/tech-genesis",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "devfolio::ccuhacks",
@@ -1798,7 +1820,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/ccuhacks",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "devfolio::devlynix-buildathon-1",
@@ -1820,7 +1842,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/devlynix-buildathon-1",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "devfolio::hackgenome2026",
@@ -1842,7 +1864,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/hackgenome2026",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "devfolio::hacktopusgdg",
@@ -1864,7 +1886,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/hacktopusgdg",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "devfolio::hackify-3",
@@ -1886,29 +1908,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/hackify-3",
-    "scrapedAt": "2026-06-29T11:02:55Z"
-  },
-  {
-    "id": "unstop-card::privacy policy",
-    "title": "Privacy Policy",
-    "description": "",
-    "company": "Unstop",
-    "type": "Hackathon",
-    "category": "Hackathon",
-    "location": "",
-    "mode": "",
-    "startDate": "",
-    "deadline": "",
-    "skills": [],
-    "tags": [
-      "Unstop",
-      "Hackathon"
-    ],
-    "image": "",
-    "source": "https://unstop.com/",
-    "sourceName": "Unstop",
-    "applyUrl": "https://unstop.com/legal/privacy-policy",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "feed::google developer groups::measuring what matters with jules",
@@ -1931,7 +1931,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/measuring-what-matters-with-jules/",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "feed::google developer groups::build cross-language multi-agent team with google’s agent development kit and a2a",
@@ -1954,7 +1954,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a/",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "feed::google developer groups::how a2a is building a world of collaborative agents",
@@ -1977,7 +1977,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/how-a2a-is-building-a-world-of-collaborative-agents/",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "feed::google developer groups::a2ui + mcp apps: combining the best of declarative and custom agentic uis",
@@ -2000,7 +2000,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/a2ui-and-mcp-apps/",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "feed::google developer groups::announcing the agentic resource discovery specification",
@@ -2023,7 +2023,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "feed::google developer groups::unlocking the power of the tpu stack: introducing our new developer hub",
@@ -2046,7 +2046,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/unlocking-the-power-of-the-tpu-stack-introducing-our-new-developer-hub/",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "feed::google developer groups::enhance security and trust: new session metadata in sign in with google",
@@ -2069,7 +2069,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/enhance-security-and-trust-new-session-metadata-in-sign-in-with-google/",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "feed::google developer groups::diffusiongemma: the developer guide",
@@ -2092,7 +2092,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/diffusiongemma-the-developer-guide/",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "feed::google developer groups::introducing the google colab cli",
@@ -2115,7 +2115,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/introducing-the-google-colab-cli/",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "feed::google developer groups::bringing gemma 4 12b to your laptop: unlocking local, agentic workflows with google ai edge",
@@ -2138,7 +2138,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/bringing-gemma-4-12b-to-your-laptop-unlocking-local-agentic-workflows-with-google-ai-edge/",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "feed::google developer groups::gemma 4 12b: the developer guide",
@@ -2161,7 +2161,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/gemma-4-12b-the-developer-guide/",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "feed::google developer groups::how the community trained gemma to \"think\" with tunix and tpus",
@@ -2184,7 +2184,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/how-the-community-trained-gemma-to-think-with-tunix-and-tpus/",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "feed::google developer groups::supercharge your integration workflow with the google pay & wallet developer mcp server",
@@ -2207,7 +2207,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/supercharge-your-integration-workflow-with-the-google-pay-wallet-developer-mcp-server/",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "feed::google developer groups::the latest updates to google pay",
@@ -2230,7 +2230,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/the-latest-updates-to-google-pay/",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "feed::google developer groups::enhancing android checkout with dynamic callbacks in google pay",
@@ -2253,7 +2253,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/enhancing-android-checkout-with-dynamic-callbacks-in-google-pay/",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "feed::google developer groups::announcing adk for kotlin and adk for android 0.1.0: building ai agents on android and beyond",
@@ -2276,7 +2276,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/adk-kotlin-android-building-ai-agents/",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "feed::google developer groups::empowering service providers and hardware partners with gemini for home",
@@ -2299,7 +2299,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/empowering-service-providers-and-hardware-partners-with-gemini-for-home/",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "feed::google developer groups::an important update: transitioning gemini cli to antigravity cli",
@@ -2322,7 +2322,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "feed::google developer groups::one year of innovation: celebrating 100k members in the google cloud x nvidia developer community",
@@ -2345,7 +2345,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/one-year-of-innovation-celebrating-100k-members-in-the-google-cloud-x-nvidia-developer-community/",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
   },
   {
     "id": "feed::google developer groups::all the news from the google i/o 2026 developer keynote",
@@ -2368,6 +2368,28 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/",
-    "scrapedAt": "2026-06-29T11:02:55Z"
+    "scrapedAt": "2026-06-29T15:50:11Z"
+  },
+  {
+    "id": "unstop-card::privacy policy",
+    "title": "Privacy Policy",
+    "description": "",
+    "company": "Unstop",
+    "type": "Hackathon",
+    "category": "Hackathon",
+    "location": "",
+    "mode": "",
+    "startDate": "",
+    "deadline": "",
+    "skills": [],
+    "tags": [
+      "Unstop",
+      "Hackathon"
+    ],
+    "image": "",
+    "source": "https://unstop.com/",
+    "sourceName": "Unstop",
+    "applyUrl": "https://unstop.com/legal/privacy-policy",
+    "scrapedAt": "2026-06-29T15:50:10Z"
   }
 ]
