@@ -1,5 +1,28 @@
 [
   {
+    "id": "wellfound::digital-marketing-manager",
+    "title": "Digital Marketing Manager",
+    "description": "",
+    "company": "Wellfound",
+    "type": "Internship",
+    "category": "Internship",
+    "location": "",
+    "mode": "True",
+    "startDate": "",
+    "deadline": "",
+    "skills": [],
+    "tags": [
+      "Wellfound",
+      "Startup",
+      "Internship"
+    ],
+    "image": "",
+    "source": "https://wellfound.com/jobs",
+    "sourceName": "Wellfound",
+    "applyUrl": "https://wellfound.com/jobs/digital-marketing-manager",
+    "scrapedAt": "2026-06-29T11:02:57Z"
+  },
+  {
     "id": "wellfound::founding-coo-digital-healthcare-ai",
     "title": "Founding COO / Digital Healthcare AI",
     "description": "",
@@ -20,7 +43,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/founding-coo-digital-healthcare-ai",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::territory-partner-closer",
@@ -43,7 +66,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/territory-partner-closer",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::founding-recruiter",
@@ -66,7 +89,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/founding-recruiter",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::market-intelligence-lead",
@@ -89,30 +112,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/market-intelligence-lead",
-    "scrapedAt": "2026-06-29T04:04:42Z"
-  },
-  {
-    "id": "wellfound::senior-frontend-engineer",
-    "title": "Senior Frontend Engineer",
-    "description": "",
-    "company": "Wellfound",
-    "type": "Internship",
-    "category": "Internship",
-    "location": "",
-    "mode": "True",
-    "startDate": "",
-    "deadline": "",
-    "skills": [],
-    "tags": [
-      "Wellfound",
-      "Startup",
-      "Internship"
-    ],
-    "image": "",
-    "source": "https://wellfound.com/jobs",
-    "sourceName": "Wellfound",
-    "applyUrl": "https://wellfound.com/jobs/senior-frontend-engineer",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::software-engineer",
@@ -135,7 +135,30 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/software-engineer",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
+  },
+  {
+    "id": "wellfound::software-developer-apprentice",
+    "title": "Software Developer Apprentice",
+    "description": "",
+    "company": "Wellfound",
+    "type": "Internship",
+    "category": "Internship",
+    "location": "",
+    "mode": "True",
+    "startDate": "",
+    "deadline": "",
+    "skills": [],
+    "tags": [
+      "Wellfound",
+      "Startup",
+      "Internship"
+    ],
+    "image": "",
+    "source": "https://wellfound.com/jobs",
+    "sourceName": "Wellfound",
+    "applyUrl": "https://wellfound.com/jobs/software-developer-apprentice",
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::senior-or-staff-back-end-engineer-ai-features",
@@ -158,7 +181,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/senior-or-staff-back-end-engineer-ai-features",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::founding-forward-deployed-engineer",
@@ -181,7 +204,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/founding-forward-deployed-engineer",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::product-manager-growth",
@@ -204,7 +227,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/product-manager-growth",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::product-manager-platform-experience",
@@ -227,7 +250,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/product-manager-platform-experience",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::product-lead-marketplace-pricing",
@@ -250,7 +273,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/product-lead-marketplace-pricing",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::product-manager-senior-product-manager",
@@ -273,7 +296,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/product-manager-senior-product-manager",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::protocol-product-manager",
@@ -296,7 +319,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/protocol-product-manager",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::senior-video-editor",
@@ -319,7 +342,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/senior-video-editor",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::senior-product-designer",
@@ -342,7 +365,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/senior-product-designer",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::senior-technical-level-artist",
@@ -365,7 +388,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/senior-technical-level-artist",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::senior-production-lead",
@@ -388,7 +411,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/senior-production-lead",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::junior-visual-designer",
@@ -411,7 +434,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/junior-visual-designer",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::principal-software-engineer-clone",
@@ -434,7 +457,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/principal-software-engineer-clone",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::data-analyst-data-engineer",
@@ -457,7 +480,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/data-analyst-data-engineer",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::senior-data-engineer",
@@ -480,7 +503,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/senior-data-engineer",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::lead-data-engineer",
@@ -503,7 +526,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/lead-data-engineer",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::enterprise-account-executive-life-sciences",
@@ -526,7 +549,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/enterprise-account-executive-life-sciences",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::senior-security-support-specialist",
@@ -549,7 +572,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/senior-security-support-specialist",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::financial-protection-specialist-remote-commission-based",
@@ -572,7 +595,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/financial-protection-specialist-remote-commission-based",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::sales-engineer",
@@ -595,7 +618,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/sales-engineer",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::solutions-engineer-public-sector",
@@ -618,7 +641,30 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/solutions-engineer-public-sector",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
+  },
+  {
+    "id": "wellfound::digital-marketing-associate",
+    "title": "Digital Marketing Associate",
+    "description": "",
+    "company": "Wellfound",
+    "type": "Internship",
+    "category": "Internship",
+    "location": "",
+    "mode": "True",
+    "startDate": "",
+    "deadline": "",
+    "skills": [],
+    "tags": [
+      "Wellfound",
+      "Startup",
+      "Internship"
+    ],
+    "image": "",
+    "source": "https://wellfound.com/jobs",
+    "sourceName": "Wellfound",
+    "applyUrl": "https://wellfound.com/jobs/digital-marketing-associate",
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::head-of-marketing-clone",
@@ -641,7 +687,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/head-of-marketing-clone",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::growth-marketing-content-associate",
@@ -664,7 +710,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/growth-marketing-content-associate",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::director-of-growth",
@@ -687,7 +733,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/director-of-growth",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::founding-growth-product-marketing-manager",
@@ -710,30 +756,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/founding-growth-product-marketing-manager",
-    "scrapedAt": "2026-06-29T04:04:42Z"
-  },
-  {
-    "id": "wellfound::communications-coordinator",
-    "title": "Communications Coordinator",
-    "description": "",
-    "company": "Wellfound",
-    "type": "Internship",
-    "category": "Internship",
-    "location": "",
-    "mode": "True",
-    "startDate": "",
-    "deadline": "",
-    "skills": [],
-    "tags": [
-      "Wellfound",
-      "Startup",
-      "Internship"
-    ],
-    "image": "",
-    "source": "https://wellfound.com/jobs",
-    "sourceName": "Wellfound",
-    "applyUrl": "https://wellfound.com/jobs/communications-coordinator",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::senior-manager-enterprise-data-migration",
@@ -756,7 +779,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/senior-manager-enterprise-data-migration",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::onboarding-manager-hybrid",
@@ -779,7 +802,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/onboarding-manager-hybrid",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::revenue-ops",
@@ -802,7 +825,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/revenue-ops",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::senior-business-operations-manager",
@@ -825,7 +848,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/senior-business-operations-manager",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::senior-manager-hvac-geothermal-quality-programs",
@@ -848,7 +871,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/senior-manager-hvac-geothermal-quality-programs",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::technical-recruiter",
@@ -871,7 +894,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/technical-recruiter",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::talent-engineer",
@@ -894,7 +917,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/talent-engineer",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::senior-business-recruiter",
@@ -917,7 +940,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/senior-business-recruiter",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::jr-finance-strategy-analyst",
@@ -940,7 +963,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/jr-finance-strategy-analyst",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::staff-accountant",
@@ -963,7 +986,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/staff-accountant",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::controller",
@@ -986,7 +1009,7 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/controller",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   },
   {
     "id": "wellfound::senior-accountant",
@@ -1009,6 +1032,6 @@
     "source": "https://wellfound.com/jobs",
     "sourceName": "Wellfound",
     "applyUrl": "https://wellfound.com/jobs/senior-accountant",
-    "scrapedAt": "2026-06-29T04:04:42Z"
+    "scrapedAt": "2026-06-29T11:02:57Z"
   }
 ]
