@@ -1,28 +1,5 @@
 [
   {
-    "id": "feed::nvidia events::hands free, ais forward: nvidia xr ai brings agents to ar glasses",
-    "title": "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
-    "description": "NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices.",
-    "company": "NVIDIA",
-    "type": "Conference",
-    "category": "Conference",
-    "location": "Global",
-    "mode": "Online",
-    "startDate": "2026-06-16T22:30:41Z",
-    "deadline": "2026-06-16T22:30:41Z",
-    "skills": [],
-    "tags": [
-      "NVIDIA",
-      "AI",
-      "Event"
-    ],
-    "image": "",
-    "source": "https://blogs.nvidia.com/feed/",
-    "sourceName": "NVIDIA Events",
-    "applyUrl": "https://blogs.nvidia.com/blog/nvidia-xr-ai/",
-    "scrapedAt": "2026-06-29T15:50:20Z"
-  },
-  {
     "id": "feed::nvidia events::france advances europe’s ai future with nvidia technologies",
     "title": "France Advances Europe’s AI Future With NVIDIA Technologies",
     "description": "A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI — from new AI factories and national compute capacity to open frontier models and industrial platforms. Now, that AI infrastructure is coming online. AI agents are running in production, startups are deploying applications and the French AI ecosystem […]",
@@ -43,7 +20,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/france-advances-europes-ai-future/",
-    "scrapedAt": "2026-06-29T15:50:20Z"
+    "scrapedAt": "2026-06-29T20:00:05Z"
   },
   {
     "id": "feed::nvidia events::sync and stream: geforce now connects to members’ game libraries across devices",
@@ -66,7 +43,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/",
-    "scrapedAt": "2026-06-29T15:50:20Z"
+    "scrapedAt": "2026-06-29T20:00:05Z"
   },
   {
     "id": "feed::nvidia events::at cannes lions, nvidia partners reshape advertising and marketing with ai",
@@ -89,7 +66,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/",
-    "scrapedAt": "2026-06-29T15:50:20Z"
+    "scrapedAt": "2026-06-29T20:00:05Z"
   },
   {
     "id": "feed::nvidia events::how ferc’s large-load interconnection actions help address grid stress, improve affordability",
@@ -112,7 +89,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/ferc-large-load-interconnection/",
-    "scrapedAt": "2026-06-29T15:50:20Z"
+    "scrapedAt": "2026-06-29T20:00:05Z"
   },
   {
     "id": "feed::nvidia events::hotter than a hot tub: the 45°c breakthrough to cool ai’s biggest machines",
@@ -135,7 +112,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-    "scrapedAt": "2026-06-29T15:50:20Z"
+    "scrapedAt": "2026-06-29T20:00:05Z"
   },
   {
     "id": "feed::nvidia events::eco wave power turns waves into watts with nvidia ai infrastructure and digital twins",
@@ -158,7 +135,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/",
-    "scrapedAt": "2026-06-29T15:50:20Z"
+    "scrapedAt": "2026-06-29T20:00:05Z"
   },
   {
     "id": "feed::nvidia events::from materials simulation to experimental astronomy, new nvidia ai software unlocks scientific discoveries",
@@ -181,7 +158,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
-    "scrapedAt": "2026-06-29T15:50:20Z"
+    "scrapedAt": "2026-06-29T20:00:05Z"
   },
   {
     "id": "feed::nvidia events::nvidia vera cpu opens the way for agentic scientific ai at los alamos national laboratory",
@@ -204,7 +181,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
-    "scrapedAt": "2026-06-29T15:50:20Z"
+    "scrapedAt": "2026-06-29T20:00:05Z"
   },
   {
     "id": "feed::nvidia events::nairr science program reshapes scientific research, powered by nvidia ai infrastructure",
@@ -227,7 +204,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/",
-    "scrapedAt": "2026-06-29T15:50:20Z"
+    "scrapedAt": "2026-06-29T20:00:05Z"
   },
   {
     "id": "feed::nvidia events::at isc, jupiter shows what exascale science looks like",
@@ -250,7 +227,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/",
-    "scrapedAt": "2026-06-29T15:50:20Z"
+    "scrapedAt": "2026-06-29T20:00:05Z"
   },
   {
     "id": "feed::nvidia events::nvidia brings trusted, 24/7 ai agents to telecom operations",
@@ -273,7 +250,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/",
-    "scrapedAt": "2026-06-29T15:50:20Z"
+    "scrapedAt": "2026-06-29T20:00:05Z"
   },
   {
     "id": "feed::nvidia events::nvidia powers over 400 of the world’s 500 fastest supercomputers",
@@ -296,7 +273,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/",
-    "scrapedAt": "2026-06-29T15:50:20Z"
+    "scrapedAt": "2026-06-29T20:00:05Z"
   },
   {
     "id": "feed::nvidia events::how businesses are building specialized ai they can trust",
@@ -319,7 +296,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
-    "scrapedAt": "2026-06-29T15:50:20Z"
+    "scrapedAt": "2026-06-29T20:00:05Z"
   },
   {
     "id": "feed::nvidia events::nvidia and aws collaborate to bring ai to production at scale",
@@ -342,7 +319,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/",
-    "scrapedAt": "2026-06-29T15:50:20Z"
+    "scrapedAt": "2026-06-29T20:00:05Z"
   },
   {
     "id": "feed::nvidia events::the ultimate summer sale pairing: steam sale meets geforce now discounts",
@@ -365,7 +342,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/",
-    "scrapedAt": "2026-06-29T15:50:20Z"
+    "scrapedAt": "2026-06-29T20:00:05Z"
   },
   {
     "id": "feed::nvidia events::open models, closed environments: palantir brings secure ai to us agencies with nvidia nemotron",
@@ -388,7 +365,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/",
-    "scrapedAt": "2026-06-29T15:50:20Z"
+    "scrapedAt": "2026-06-29T20:00:05Z"
   },
   {
     "id": "feed::nvidia events::firefly aerospace operates nvidia jetson in lunar orbit for the first time",
@@ -411,6 +388,29 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/",
-    "scrapedAt": "2026-06-29T15:50:20Z"
+    "scrapedAt": "2026-06-29T20:00:05Z"
+  },
+  {
+    "id": "feed::nvidia events::claude meets blackwell ultra: anthropic’s models now run on nvidia gb300 in azure",
+    "title": "Claude Meets Blackwell Ultra: Anthropic’s Models Now Run on NVIDIA GB300 in Azure",
+    "description": "Anthropic’s Claude models in Microsoft Foundry — hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs — are now generally available, giving Azure-native enterprises a powerful new way to build autonomous and domain-specific AI agents. As agentic AI continues to drive enterprise innovation and becomes more autonomous, organizations need access to computing […]",
+    "company": "NVIDIA",
+    "type": "Conference",
+    "category": "Conference",
+    "location": "Global",
+    "mode": "Online",
+    "startDate": "2026-06-29T17:00:19Z",
+    "deadline": "2026-06-29T17:00:19Z",
+    "skills": [],
+    "tags": [
+      "NVIDIA",
+      "AI",
+      "Event"
+    ],
+    "image": "",
+    "source": "https://blogs.nvidia.com/feed/",
+    "sourceName": "NVIDIA Events",
+    "applyUrl": "https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/",
+    "scrapedAt": "2026-06-29T20:00:05Z"
   }
 ]
