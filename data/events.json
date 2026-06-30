@@ -20,7 +20,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/measuring-what-matters-with-jules/",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:10Z"
   },
   {
     "id": "feed::google developer groups::build cross-language multi-agent team with google’s agent development kit and a2a",
@@ -43,7 +43,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a/",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:10Z"
   },
   {
     "id": "feed::google developer groups::how a2a is building a world of collaborative agents",
@@ -66,7 +66,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/how-a2a-is-building-a-world-of-collaborative-agents/",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:10Z"
   },
   {
     "id": "feed::google developer groups::a2ui + mcp apps: combining the best of declarative and custom agentic uis",
@@ -89,7 +89,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/a2ui-and-mcp-apps/",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:10Z"
   },
   {
     "id": "feed::google developer groups::announcing the agentic resource discovery specification",
@@ -112,7 +112,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:10Z"
   },
   {
     "id": "feed::google developer groups::unlocking the power of the tpu stack: introducing our new developer hub",
@@ -135,7 +135,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/unlocking-the-power-of-the-tpu-stack-introducing-our-new-developer-hub/",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:10Z"
   },
   {
     "id": "feed::google developer groups::enhance security and trust: new session metadata in sign in with google",
@@ -158,7 +158,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/enhance-security-and-trust-new-session-metadata-in-sign-in-with-google/",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:10Z"
   },
   {
     "id": "feed::google developer groups::diffusiongemma: the developer guide",
@@ -181,7 +181,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/diffusiongemma-the-developer-guide/",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:10Z"
   },
   {
     "id": "feed::google developer groups::introducing the google colab cli",
@@ -204,7 +204,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/introducing-the-google-colab-cli/",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:10Z"
   },
   {
     "id": "feed::google developer groups::bringing gemma 4 12b to your laptop: unlocking local, agentic workflows with google ai edge",
@@ -227,7 +227,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/bringing-gemma-4-12b-to-your-laptop-unlocking-local-agentic-workflows-with-google-ai-edge/",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:10Z"
   },
   {
     "id": "feed::google developer groups::gemma 4 12b: the developer guide",
@@ -250,7 +250,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/gemma-4-12b-the-developer-guide/",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:10Z"
   },
   {
     "id": "feed::google developer groups::how the community trained gemma to \"think\" with tunix and tpus",
@@ -273,7 +273,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/how-the-community-trained-gemma-to-think-with-tunix-and-tpus/",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:10Z"
   },
   {
     "id": "feed::google developer groups::supercharge your integration workflow with the google pay & wallet developer mcp server",
@@ -296,7 +296,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/supercharge-your-integration-workflow-with-the-google-pay-wallet-developer-mcp-server/",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:10Z"
   },
   {
     "id": "feed::google developer groups::the latest updates to google pay",
@@ -319,7 +319,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/the-latest-updates-to-google-pay/",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:10Z"
   },
   {
     "id": "feed::google developer groups::enhancing android checkout with dynamic callbacks in google pay",
@@ -342,7 +342,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/enhancing-android-checkout-with-dynamic-callbacks-in-google-pay/",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:10Z"
   },
   {
     "id": "feed::google developer groups::announcing adk for kotlin and adk for android 0.1.0: building ai agents on android and beyond",
@@ -365,7 +365,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/adk-kotlin-android-building-ai-agents/",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:10Z"
   },
   {
     "id": "feed::google developer groups::empowering service providers and hardware partners with gemini for home",
@@ -388,7 +388,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/empowering-service-providers-and-hardware-partners-with-gemini-for-home/",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:10Z"
   },
   {
     "id": "feed::google developer groups::an important update: transitioning gemini cli to antigravity cli",
@@ -411,7 +411,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:10Z"
   },
   {
     "id": "feed::google developer groups::one year of innovation: celebrating 100k members in the google cloud x nvidia developer community",
@@ -434,7 +434,7 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/one-year-of-innovation-celebrating-100k-members-in-the-google-cloud-x-nvidia-developer-community/",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:10Z"
   },
   {
     "id": "feed::google developer groups::all the news from the google i/o 2026 developer keynote",
@@ -457,6 +457,6 @@
     "source": "https://developers.googleblog.com/feeds/posts/default?alt=rss",
     "sourceName": "Google Developer Groups",
     "applyUrl": "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:10Z"
   }
 ]

@@ -19,29 +19,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/girlathon26",
-    "scrapedAt": "2026-06-30T03:47:45Z"
-  },
-  {
-    "id": "devfolio::citadel-hackathon",
-    "title": "Citadel Hackathon - Season 1",
-    "description": "",
-    "company": "Devfolio",
-    "type": "Hackathon",
-    "category": "Hackathon",
-    "location": "",
-    "mode": "",
-    "startDate": "",
-    "deadline": "",
-    "skills": [],
-    "tags": [
-      "Devfolio",
-      "Hackathon"
-    ],
-    "image": "",
-    "source": "https://devfolio.co/hackathons",
-    "sourceName": "Devfolio",
-    "applyUrl": "https://devfolio.co/citadel-hackathon",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:11Z"
   },
   {
     "id": "devfolio::shebuilds-chennai-hack",
@@ -63,7 +41,29 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/shebuilds-chennai-hack",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:11Z"
+  },
+  {
+    "id": "devfolio::citadel-hackathon",
+    "title": "Citadel Hackathon - Season 1",
+    "description": "",
+    "company": "Devfolio",
+    "type": "Hackathon",
+    "category": "Hackathon",
+    "location": "",
+    "mode": "",
+    "startDate": "",
+    "deadline": "",
+    "skills": [],
+    "tags": [
+      "Devfolio",
+      "Hackathon"
+    ],
+    "image": "",
+    "source": "https://devfolio.co/hackathons",
+    "sourceName": "Devfolio",
+    "applyUrl": "https://devfolio.co/citadel-hackathon",
+    "scrapedAt": "2026-06-30T09:39:11Z"
   },
   {
     "id": "devfolio::flutterflow-champions-league-hackathon",
@@ -85,7 +85,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/flutterflow-champions-league-hackathon",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:11Z"
   },
   {
     "id": "devfolio::hexafalls2",
@@ -107,7 +107,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/hexafalls2",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:11Z"
   },
   {
     "id": "devfolio::futureforge-hackathon",
@@ -129,7 +129,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/futureforge-hackathon",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:11Z"
   },
   {
     "id": "devfolio::hyperfusion",
@@ -151,7 +151,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/hyperfusion",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:11Z"
   },
   {
     "id": "devfolio::ignisys-ignitia",
@@ -173,7 +173,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/ignisys-ignitia",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:11Z"
   },
   {
     "id": "devfolio::codestorm-week2-2026",
@@ -195,7 +195,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/codestorm-week2-2026",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:11Z"
   },
   {
     "id": "devfolio::portmortem",
@@ -217,7 +217,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/portmortem",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:11Z"
   },
   {
     "id": "devfolio::dsudevhack3",
@@ -239,7 +239,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/dsudevhack3",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:11Z"
   },
   {
     "id": "devfolio::hacknex-season-2",
@@ -261,7 +261,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/hacknex-season-2",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:11Z"
   },
   {
     "id": "devfolio::codestorm-futureforge",
@@ -283,7 +283,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/codestorm-futureforge",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:11Z"
   },
   {
     "id": "devfolio::hacker-house-goa-2026",
@@ -305,7 +305,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/hacker-house-goa-2026",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:11Z"
   },
   {
     "id": "devfolio::hackonhills8",
@@ -327,7 +327,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/hackonhills8",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:11Z"
   },
   {
     "id": "devfolio::tech-genesis",
@@ -349,7 +349,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/tech-genesis",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:11Z"
   },
   {
     "id": "devfolio::ccuhacks",
@@ -371,7 +371,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/ccuhacks",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:11Z"
   },
   {
     "id": "devfolio::devlynix-buildathon-1",
@@ -393,7 +393,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/devlynix-buildathon-1",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:11Z"
   },
   {
     "id": "devfolio::hackgenome2026",
@@ -415,7 +415,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/hackgenome2026",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:11Z"
   },
   {
     "id": "devfolio::hacktopusgdg",
@@ -437,7 +437,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/hacktopusgdg",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:11Z"
   },
   {
     "id": "devfolio::hackify-3",
@@ -459,7 +459,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/hackify-3",
-    "scrapedAt": "2026-06-30T03:47:45Z"
+    "scrapedAt": "2026-06-30T09:39:11Z"
   },
   {
     "id": "unstop-card::privacy policy",
@@ -481,6 +481,6 @@
     "source": "https://unstop.com/",
     "sourceName": "Unstop",
     "applyUrl": "https://unstop.com/legal/privacy-policy",
-    "scrapedAt": "2026-06-30T03:47:44Z"
+    "scrapedAt": "2026-06-30T09:39:11Z"
   }
 ]
