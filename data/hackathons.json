@@ -1,27 +1,5 @@
 [
   {
-    "id": "devfolio::girlathon26",
-    "title": "Girlathon 4.0",
-    "description": "",
-    "company": "Devfolio",
-    "type": "Hackathon",
-    "category": "Hackathon",
-    "location": "",
-    "mode": "",
-    "startDate": "",
-    "deadline": "",
-    "skills": [],
-    "tags": [
-      "Devfolio",
-      "Hackathon"
-    ],
-    "image": "",
-    "source": "https://devfolio.co/hackathons",
-    "sourceName": "Devfolio",
-    "applyUrl": "https://devfolio.co/girlathon26",
-    "scrapedAt": "2026-06-30T09:39:11Z"
-  },
-  {
     "id": "devfolio::shebuilds-chennai-hack",
     "title": "SheBuilds Chennai Hack",
     "description": "",
@@ -41,7 +19,29 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/shebuilds-chennai-hack",
-    "scrapedAt": "2026-06-30T09:39:11Z"
+    "scrapedAt": "2026-06-30T14:22:23Z"
+  },
+  {
+    "id": "devfolio::girlathon26",
+    "title": "Girlathon 4.0",
+    "description": "",
+    "company": "Devfolio",
+    "type": "Hackathon",
+    "category": "Hackathon",
+    "location": "",
+    "mode": "",
+    "startDate": "",
+    "deadline": "",
+    "skills": [],
+    "tags": [
+      "Devfolio",
+      "Hackathon"
+    ],
+    "image": "",
+    "source": "https://devfolio.co/hackathons",
+    "sourceName": "Devfolio",
+    "applyUrl": "https://devfolio.co/girlathon26",
+    "scrapedAt": "2026-06-30T14:22:23Z"
   },
   {
     "id": "devfolio::citadel-hackathon",
@@ -63,7 +63,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/citadel-hackathon",
-    "scrapedAt": "2026-06-30T09:39:11Z"
+    "scrapedAt": "2026-06-30T14:22:23Z"
   },
   {
     "id": "devfolio::flutterflow-champions-league-hackathon",
@@ -85,7 +85,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/flutterflow-champions-league-hackathon",
-    "scrapedAt": "2026-06-30T09:39:11Z"
+    "scrapedAt": "2026-06-30T14:22:23Z"
   },
   {
     "id": "devfolio::hexafalls2",
@@ -107,7 +107,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/hexafalls2",
-    "scrapedAt": "2026-06-30T09:39:11Z"
+    "scrapedAt": "2026-06-30T14:22:23Z"
   },
   {
     "id": "devfolio::futureforge-hackathon",
@@ -129,7 +129,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/futureforge-hackathon",
-    "scrapedAt": "2026-06-30T09:39:11Z"
+    "scrapedAt": "2026-06-30T14:22:23Z"
   },
   {
     "id": "devfolio::hyperfusion",
@@ -151,7 +151,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/hyperfusion",
-    "scrapedAt": "2026-06-30T09:39:11Z"
+    "scrapedAt": "2026-06-30T14:22:23Z"
   },
   {
     "id": "devfolio::ignisys-ignitia",
@@ -173,7 +173,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/ignisys-ignitia",
-    "scrapedAt": "2026-06-30T09:39:11Z"
+    "scrapedAt": "2026-06-30T14:22:23Z"
   },
   {
     "id": "devfolio::codestorm-week2-2026",
@@ -195,7 +195,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/codestorm-week2-2026",
-    "scrapedAt": "2026-06-30T09:39:11Z"
+    "scrapedAt": "2026-06-30T14:22:23Z"
   },
   {
     "id": "devfolio::portmortem",
@@ -217,7 +217,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/portmortem",
-    "scrapedAt": "2026-06-30T09:39:11Z"
+    "scrapedAt": "2026-06-30T14:22:23Z"
   },
   {
     "id": "devfolio::dsudevhack3",
@@ -239,7 +239,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/dsudevhack3",
-    "scrapedAt": "2026-06-30T09:39:11Z"
+    "scrapedAt": "2026-06-30T14:22:23Z"
   },
   {
     "id": "devfolio::hacknex-season-2",
@@ -261,7 +261,29 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/hacknex-season-2",
-    "scrapedAt": "2026-06-30T09:39:11Z"
+    "scrapedAt": "2026-06-30T14:22:23Z"
+  },
+  {
+    "id": "devfolio::muba-hackathon",
+    "title": "MUBA Blockchain Hackathon",
+    "description": "",
+    "company": "Devfolio",
+    "type": "Hackathon",
+    "category": "Hackathon",
+    "location": "",
+    "mode": "",
+    "startDate": "",
+    "deadline": "",
+    "skills": [],
+    "tags": [
+      "Devfolio",
+      "Hackathon"
+    ],
+    "image": "",
+    "source": "https://devfolio.co/hackathons",
+    "sourceName": "Devfolio",
+    "applyUrl": "https://devfolio.co/muba-hackathon",
+    "scrapedAt": "2026-06-30T14:22:23Z"
   },
   {
     "id": "devfolio::codestorm-futureforge",
@@ -283,7 +305,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/codestorm-futureforge",
-    "scrapedAt": "2026-06-30T09:39:11Z"
+    "scrapedAt": "2026-06-30T14:22:23Z"
   },
   {
     "id": "devfolio::hacker-house-goa-2026",
@@ -305,7 +327,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/hacker-house-goa-2026",
-    "scrapedAt": "2026-06-30T09:39:11Z"
+    "scrapedAt": "2026-06-30T14:22:23Z"
   },
   {
     "id": "devfolio::hackonhills8",
@@ -327,7 +349,29 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/hackonhills8",
-    "scrapedAt": "2026-06-30T09:39:11Z"
+    "scrapedAt": "2026-06-30T14:22:23Z"
+  },
+  {
+    "id": "devfolio::microcraft-vibeathon",
+    "title": "MicroCraft - Vibeathon",
+    "description": "",
+    "company": "Devfolio",
+    "type": "Hackathon",
+    "category": "Hackathon",
+    "location": "",
+    "mode": "",
+    "startDate": "",
+    "deadline": "",
+    "skills": [],
+    "tags": [
+      "Devfolio",
+      "Hackathon"
+    ],
+    "image": "",
+    "source": "https://devfolio.co/hackathons",
+    "sourceName": "Devfolio",
+    "applyUrl": "https://devfolio.co/microcraft-vibeathon",
+    "scrapedAt": "2026-06-30T14:22:23Z"
   },
   {
     "id": "devfolio::tech-genesis",
@@ -349,7 +393,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/tech-genesis",
-    "scrapedAt": "2026-06-30T09:39:11Z"
+    "scrapedAt": "2026-06-30T14:22:23Z"
   },
   {
     "id": "devfolio::ccuhacks",
@@ -371,7 +415,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/ccuhacks",
-    "scrapedAt": "2026-06-30T09:39:11Z"
+    "scrapedAt": "2026-06-30T14:22:23Z"
   },
   {
     "id": "devfolio::devlynix-buildathon-1",
@@ -393,29 +437,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/devlynix-buildathon-1",
-    "scrapedAt": "2026-06-30T09:39:11Z"
-  },
-  {
-    "id": "devfolio::hackgenome2026",
-    "title": "HackGenome",
-    "description": "",
-    "company": "Devfolio",
-    "type": "Hackathon",
-    "category": "Hackathon",
-    "location": "",
-    "mode": "",
-    "startDate": "",
-    "deadline": "",
-    "skills": [],
-    "tags": [
-      "Devfolio",
-      "Hackathon"
-    ],
-    "image": "",
-    "source": "https://devfolio.co/hackathons",
-    "sourceName": "Devfolio",
-    "applyUrl": "https://devfolio.co/hackgenome2026",
-    "scrapedAt": "2026-06-30T09:39:11Z"
+    "scrapedAt": "2026-06-30T14:22:23Z"
   },
   {
     "id": "devfolio::hacktopusgdg",
@@ -437,7 +459,7 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/hacktopusgdg",
-    "scrapedAt": "2026-06-30T09:39:11Z"
+    "scrapedAt": "2026-06-30T14:22:23Z"
   },
   {
     "id": "devfolio::hackify-3",
@@ -459,7 +481,51 @@
     "source": "https://devfolio.co/hackathons",
     "sourceName": "Devfolio",
     "applyUrl": "https://devfolio.co/hackify-3",
-    "scrapedAt": "2026-06-30T09:39:11Z"
+    "scrapedAt": "2026-06-30T14:22:23Z"
+  },
+  {
+    "id": "devfolio::nexhack-2",
+    "title": "NexHack 2.0",
+    "description": "",
+    "company": "Devfolio",
+    "type": "Hackathon",
+    "category": "Hackathon",
+    "location": "",
+    "mode": "",
+    "startDate": "",
+    "deadline": "",
+    "skills": [],
+    "tags": [
+      "Devfolio",
+      "Hackathon"
+    ],
+    "image": "",
+    "source": "https://devfolio.co/hackathons",
+    "sourceName": "Devfolio",
+    "applyUrl": "https://devfolio.co/nexhack-2",
+    "scrapedAt": "2026-06-30T14:22:23Z"
+  },
+  {
+    "id": "devfolio::pec-hacks",
+    "title": "PEC HACKS 4.0",
+    "description": "",
+    "company": "Devfolio",
+    "type": "Hackathon",
+    "category": "Hackathon",
+    "location": "",
+    "mode": "",
+    "startDate": "",
+    "deadline": "",
+    "skills": [],
+    "tags": [
+      "Devfolio",
+      "Hackathon"
+    ],
+    "image": "",
+    "source": "https://devfolio.co/hackathons",
+    "sourceName": "Devfolio",
+    "applyUrl": "https://devfolio.co/pec-hacks",
+    "scrapedAt": "2026-06-30T14:22:23Z"
   },
   {
     "id": "unstop-card::privacy policy",
@@ -481,6 +547,6 @@
     "source": "https://unstop.com/",
     "sourceName": "Unstop",
     "applyUrl": "https://unstop.com/legal/privacy-policy",
-    "scrapedAt": "2026-06-30T09:39:11Z"
+    "scrapedAt": "2026-06-30T14:22:22Z"
   }
 ]
