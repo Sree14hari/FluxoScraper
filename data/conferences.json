@@ -1,28 +1,5 @@
 [
   {
-    "id": "feed::nvidia events::hotter than a hot tub: the 45°c breakthrough to cool ai’s biggest machines",
-    "title": "Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines",
-    "description": "Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes. NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113 degrees Fahrenheit. That higher temperature limit is precisely what makes them more energy efficient. […]",
-    "company": "NVIDIA",
-    "type": "Conference",
-    "category": "Conference",
-    "location": "Global",
-    "mode": "Online",
-    "startDate": "2026-06-22T05:00:22Z",
-    "deadline": "2026-06-22T05:00:22Z",
-    "skills": [],
-    "tags": [
-      "NVIDIA",
-      "AI",
-      "Event"
-    ],
-    "image": "",
-    "source": "https://blogs.nvidia.com/feed/",
-    "sourceName": "NVIDIA Events",
-    "applyUrl": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-    "scrapedAt": "2026-07-01T09:50:38Z"
-  },
-  {
     "id": "feed::nvidia events::eco wave power turns waves into watts with nvidia ai infrastructure and digital twins",
     "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
     "description": "The next era of AI will not be defined by compute alone. Its growth will be determined by energy. As accelerated computing scales across AI factories, agentic AI, industrial AI, edge computing and physical AI — including robotics and autonomous systems — global electricity demand is rising at unprecedented speed. In many regions, expanding grid […]",
@@ -43,7 +20,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/",
-    "scrapedAt": "2026-07-01T09:50:38Z"
+    "scrapedAt": "2026-07-01T14:39:26Z"
   },
   {
     "id": "feed::nvidia events::from materials simulation to experimental astronomy, new nvidia ai software unlocks scientific discoveries",
@@ -66,7 +43,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
-    "scrapedAt": "2026-07-01T09:50:38Z"
+    "scrapedAt": "2026-07-01T14:39:26Z"
   },
   {
     "id": "feed::nvidia events::nvidia vera cpu opens the way for agentic scientific ai at los alamos national laboratory",
@@ -89,7 +66,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
-    "scrapedAt": "2026-07-01T09:50:38Z"
+    "scrapedAt": "2026-07-01T14:39:26Z"
   },
   {
     "id": "feed::nvidia events::nairr science program reshapes scientific research, powered by nvidia ai infrastructure",
@@ -112,7 +89,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/",
-    "scrapedAt": "2026-07-01T09:50:38Z"
+    "scrapedAt": "2026-07-01T14:39:26Z"
   },
   {
     "id": "feed::nvidia events::at isc, jupiter shows what exascale science looks like",
@@ -135,7 +112,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/",
-    "scrapedAt": "2026-07-01T09:50:38Z"
+    "scrapedAt": "2026-07-01T14:39:26Z"
   },
   {
     "id": "feed::nvidia events::nvidia brings trusted, 24/7 ai agents to telecom operations",
@@ -158,7 +135,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/",
-    "scrapedAt": "2026-07-01T09:50:38Z"
+    "scrapedAt": "2026-07-01T14:39:26Z"
   },
   {
     "id": "feed::nvidia events::nvidia powers over 400 of the world’s 500 fastest supercomputers",
@@ -181,7 +158,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/",
-    "scrapedAt": "2026-07-01T09:50:38Z"
+    "scrapedAt": "2026-07-01T14:39:26Z"
   },
   {
     "id": "feed::nvidia events::how businesses are building specialized ai they can trust",
@@ -204,7 +181,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
-    "scrapedAt": "2026-07-01T09:50:38Z"
+    "scrapedAt": "2026-07-01T14:39:26Z"
   },
   {
     "id": "feed::nvidia events::nvidia and aws collaborate to bring ai to production at scale",
@@ -227,7 +204,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/",
-    "scrapedAt": "2026-07-01T09:50:38Z"
+    "scrapedAt": "2026-07-01T14:39:26Z"
   },
   {
     "id": "feed::nvidia events::the ultimate summer sale pairing: steam sale meets geforce now discounts",
@@ -250,7 +227,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/",
-    "scrapedAt": "2026-07-01T09:50:38Z"
+    "scrapedAt": "2026-07-01T14:39:26Z"
   },
   {
     "id": "feed::nvidia events::open models, closed environments: palantir brings secure ai to us agencies with nvidia nemotron",
@@ -273,7 +250,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/",
-    "scrapedAt": "2026-07-01T09:50:38Z"
+    "scrapedAt": "2026-07-01T14:39:26Z"
   },
   {
     "id": "feed::nvidia events::firefly aerospace operates nvidia jetson in lunar orbit for the first time",
@@ -296,7 +273,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/",
-    "scrapedAt": "2026-07-01T09:50:38Z"
+    "scrapedAt": "2026-07-01T14:39:26Z"
   },
   {
     "id": "feed::nvidia events::claude meets blackwell ultra: anthropic’s models now run on nvidia gb300 in azure",
@@ -319,7 +296,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/",
-    "scrapedAt": "2026-07-01T09:50:38Z"
+    "scrapedAt": "2026-07-01T14:39:26Z"
   },
   {
     "id": "feed::nvidia events::into the omniverse: three workflows for improving vision ai agent accuracy with synthetic data and fine-tuning",
@@ -342,7 +319,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/",
-    "scrapedAt": "2026-07-01T09:50:38Z"
+    "scrapedAt": "2026-07-01T14:39:26Z"
   },
   {
     "id": "feed::nvidia events::how jaiveer singh is helping robots — and developers — move faster",
@@ -365,7 +342,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/",
-    "scrapedAt": "2026-07-01T09:50:38Z"
+    "scrapedAt": "2026-07-01T14:39:26Z"
   },
   {
     "id": "feed::nvidia events::how nvidia’s inference software stack powers the lowest token cost",
@@ -388,7 +365,7 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/",
-    "scrapedAt": "2026-07-01T09:50:38Z"
+    "scrapedAt": "2026-07-01T14:39:26Z"
   },
   {
     "id": "feed::nvidia events::nvidia bionemo agent toolkit brings accelerated ai to life sciences researchers in claude science",
@@ -411,6 +388,29 @@
     "source": "https://blogs.nvidia.com/feed/",
     "sourceName": "NVIDIA Events",
     "applyUrl": "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/",
-    "scrapedAt": "2026-07-01T09:50:38Z"
+    "scrapedAt": "2026-07-01T14:39:26Z"
+  },
+  {
+    "id": "feed::nvidia events::nvidia and partners build in america, for america",
+    "title": "NVIDIA and Partners Build in America, for America",
+    "description": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
+    "company": "NVIDIA",
+    "type": "Conference",
+    "category": "Conference",
+    "location": "Global",
+    "mode": "Online",
+    "startDate": "2026-07-01T13:00:47Z",
+    "deadline": "2026-07-01T13:00:47Z",
+    "skills": [],
+    "tags": [
+      "NVIDIA",
+      "AI",
+      "Event"
+    ],
+    "image": "",
+    "source": "https://blogs.nvidia.com/feed/",
+    "sourceName": "NVIDIA Events",
+    "applyUrl": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
+    "scrapedAt": "2026-07-01T14:39:26Z"
   }
 ]
